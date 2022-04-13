@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on my 2nd Year SDP-2 Project 
 
-- 🌱 I’m currently learning MERN stack web development and Advanced JAVA  
+- 🌱 I’m currently learning Python full stack web development using Django and AI & ML algorithms
 
 - 👯 I’m looking to collaborate on Web Development or JAVA projects 
 
