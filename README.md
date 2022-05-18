@@ -16,11 +16,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on my 2nd Year SDP-2 Project 
+- 🔭 I’m currently working on my AWS certification and Tweepy library
 
-- 🌱 I’m currently learning Python full stack web development using Django and AI & ML algorithms
+- 🌱 I’m currently learning Django full stck, AI & ML Algorithms
 
-- 👯 I’m looking to collaborate on Web Development or JAVA projects 
+- 👯 I’m looking to collaborate on Web Development projects 
 
 - 💬 Talk to me about Java, Python, JavaScript, Open Source, Web Development 
 
