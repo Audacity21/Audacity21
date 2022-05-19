@@ -1,7 +1,3 @@
-<div align="center">
-<img width="100%" height = "400px" src="https://www.bleepstatic.com/content/posts/2018/06/04/github-header.png?raw=true" alt="cover" />
-</div>
-
 <h1> Hello fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
