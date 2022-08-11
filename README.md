@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on my AWS certification and Tweepy library
 
-- 🌱 I’m currently learning Django full stck, AI & ML Algorithms
+- 🌱 I’m currently learning Java Full stack with microservices & cybersecurity concepts
 
 - 👯 I’m looking to collaborate on Web Development projects 
 
