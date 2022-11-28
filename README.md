@@ -45,7 +45,7 @@
   
   <h2>Check out my latest blogs</h2>
   <!-- BLOG-POST-LIST:START -->
-- [JP Morgan&#39;s Code for Good 2022](https://ankitseth.hashnode.dev/jp-morgans-code-for-good-2022)
+- [JP Morgan&#39;s Code for Good 2022](https://ankitseth.hashnode.dev/jp-morgans-code-for-good-2022) <br />
 - [Experience at a Cybersecurity Workshop](https://ankitseth.hashnode.dev/experience-at-a-cybersecurity-workshop)
 <!-- BLOG-POST-LIST:END -->
 
