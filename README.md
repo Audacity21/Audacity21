@@ -54,7 +54,7 @@
 <h2> My GitHub Stats </h2>
   
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=audacity21&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audacity21&show_icons=true&theme=radical&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=audacity21&show_icons=true&theme=radical&hide=jupyter%20notebook,html,css)
 
 
 <h2> Some Programming Humor for you</h2>
