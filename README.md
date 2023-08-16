@@ -1,8 +1,6 @@
 <h1> Hello fellow < Developers/ >! </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Audacity21.Audacity21)
-
 </p>
 <div size='20px'> Hi! My name is Ankit Seth. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
